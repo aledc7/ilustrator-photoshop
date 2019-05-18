@@ -1,6 +1,8 @@
 # Nociones Básicas de Ilustrator y Photoshop para Programadores
 
-##  El propósito de este documento es crear un listado con las operaciones mas comúnes que pueden ser necesarias para manipular imagenes en un nivel basico inicial, para un programador que necesite realizar tareas simples pero necesarias en algunas ocasiones.
+[<img src="https://github.com/aledc7/PHP-Certification/blob/master/aledc-logo.png?raw=true">](https://aledc.com)
+
+######  El propósito de este documento es crear un listado con las operaciones mas comúnes que pueden ser necesarias para manipular imagenes en un nivel basico inicial, para un programador que necesite realizar tareas simples pero necesarias en algunas ocasiones.
 
 ### NOTA:  todas las instrucciones son para las versiones en INGLES tanto de Ilustrator como de Photoshop.
 
